@@ -1,0 +1,4 @@
+qwen2_5_vl_7b
+qwen2_5_vl_3b
+qwen2_5_vl_3b_kl_curriculum
+qwen2_5_vl_7b_kl_curriculum
